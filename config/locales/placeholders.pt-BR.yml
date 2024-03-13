@@ -1,0 +1,7 @@
+'pt-BR':
+  placeholders:
+    admin_email: Email do Administrador
+    admin_password: Senha do Administrador
+    password_confirmation: Confirmação da Senha
+    question_description: Descrição da Pergunta
+    subject_description: Descrição do Assunto/Área
